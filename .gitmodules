@@ -1,0 +1,21 @@
+[submodule "wolf_ros_vision"]
+	path = wolf_ros_vision
+	url = ./wolf_ros_node/
+[submodule "wolf_ros_apriltag"]
+	path = wolf_ros_apriltag
+	url = ./wolf_ros_apriltag/
+[submodule "wolf_ros_imu"]
+	path = wolf_ros_imu
+	url = ./wolf_ros_imu/
+[submodule "wolf_ros_laser"]
+	path = wolf_ros_laser
+	url = ./wolf_ros_laser/
+[submodule "wolf_ros_node"]
+	path = wolf_ros_node
+	url = ./wolf_ros_node/
+[submodule "wolf_demo_apriltag_imu"]
+	path = wolf_demo_apriltag_imu
+	url = ./wolf_demo_apriltag_imu/
+[submodule "wolf_demo_laser2d"]
+	path = wolf_demo_laser2d
+	url = ./wolf_demo_laser2d/
