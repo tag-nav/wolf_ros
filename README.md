@@ -8,7 +8,7 @@ The overall installation procedure is the same as that of the original WOLF-ROS,
 
 ### Prerequisite
 
-WOLF-ROS requires ROS1 and [WOLF](https://github.com/tag-nav/wolf).
+WOLF-ROS requires [ROS1](http://wiki.ros.org/) and [WOLF](https://github.com/tag-nav/wolf).
 
 ### Build using catkin 
 
@@ -22,7 +22,7 @@ $ catkin build
 $ source devel/setup.bash
 ```
 
-### What's changed compared to the original WOLF?
+### What's changed compared to the original WOLF-ROS?
 
 - `wolf_ros_node` now refers to [https://github.com/tag-nav/wolf_ros_node](https://github.com/tag-nav/wolf_ros_node) instead of [https://gitlab.iri.upc.edu/mobile_robotics/wolf_projects/wolf_ros/wolf_ros_node](https://gitlab.iri.upc.edu/mobile_robotics/wolf_projects/wolf_ros/wolf_ros_node).
 - `wolf_demo_apriltag_imu` now refers to [https://github.com/tag-nav/wolf_ros_demo_apriltag_imu](https://github.com/tag-nav/wolf_ros_demo_apriltag_imu) instead of [https://gitlab.iri.upc.edu/mobile_robotics/wolf_projects/wolf_ros/demos/wolf_demo_apriltag_imu](https://gitlab.iri.upc.edu/mobile_robotics/wolf_projects/wolf_ros/demos/wolf_demo_apriltag_imu).
